@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/OscarHerrero/NFT/static/css/main.8ab16b8e.chunk.css",
+    "main.js": "/OscarHerrero/NFT/static/js/main.cc817621.chunk.js",
+    "main.js.map": "/OscarHerrero/NFT/static/js/main.cc817621.chunk.js.map",
+    "runtime-main.js": "/OscarHerrero/NFT/static/js/runtime-main.0068c42b.js",
+    "runtime-main.js.map": "/OscarHerrero/NFT/static/js/runtime-main.0068c42b.js.map",
+    "static/js/2.bbeefc5e.chunk.js": "/OscarHerrero/NFT/static/js/2.bbeefc5e.chunk.js",
+    "static/js/2.bbeefc5e.chunk.js.map": "/OscarHerrero/NFT/static/js/2.bbeefc5e.chunk.js.map",
+    "static/js/3.b2fee0ba.chunk.js": "/OscarHerrero/NFT/static/js/3.b2fee0ba.chunk.js",
+    "static/js/3.b2fee0ba.chunk.js.map": "/OscarHerrero/NFT/static/js/3.b2fee0ba.chunk.js.map",
+    "index.html": "/OscarHerrero/NFT/index.html",
+    "static/css/main.8ab16b8e.chunk.css.map": "/OscarHerrero/NFT/static/css/main.8ab16b8e.chunk.css.map",
+    "static/js/2.bbeefc5e.chunk.js.LICENSE.txt": "/OscarHerrero/NFT/static/js/2.bbeefc5e.chunk.js.LICENSE.txt",
+    "static/media/0.586dcf94.png": "/OscarHerrero/NFT/static/media/0.586dcf94.png",
+    "static/media/1.3542a239.png": "/OscarHerrero/NFT/static/media/1.3542a239.png",
+    "static/media/1.c99f897b.png": "/OscarHerrero/NFT/static/media/1.c99f897b.png",
+    "static/media/2.7ec39d09.png": "/OscarHerrero/NFT/static/media/2.7ec39d09.png",
+    "static/media/2.a1e62752.png": "/OscarHerrero/NFT/static/media/2.a1e62752.png",
+    "static/media/3.32f8e931.png": "/OscarHerrero/NFT/static/media/3.32f8e931.png",
+    "static/media/3.cf812abc.png": "/OscarHerrero/NFT/static/media/3.cf812abc.png",
+    "static/media/4.01916258.png": "/OscarHerrero/NFT/static/media/4.01916258.png",
+    "static/media/4.77954b0f.png": "/OscarHerrero/NFT/static/media/4.77954b0f.png",
+    "static/media/5.a0506404.png": "/OscarHerrero/NFT/static/media/5.a0506404.png",
+    "static/media/6.7ccc1cf3.png": "/OscarHerrero/NFT/static/media/6.7ccc1cf3.png",
+    "static/media/7.ab45e9fc.png": "/OscarHerrero/NFT/static/media/7.ab45e9fc.png",
+    "static/media/_color.f70e1558.png": "/OscarHerrero/NFT/static/media/_color.f70e1558.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0068c42b.js",
+    "static/js/2.bbeefc5e.chunk.js",
+    "static/css/main.8ab16b8e.chunk.css",
+    "static/js/main.cc817621.chunk.js"
+  ]
+}
